@@ -6,3 +6,5 @@ print("Hobijs: kalnos kāpšana, kas nu jau 2 gadus nav iespējams, bet viss vē
 
 print("Te Kalvis kaut ko pierakstījis klāt")
 print("Skolens1")
+print("Parbauda, pierakstot jaunu rindu")
+print("Skatīsimies, ka darbojas versiju kontrole")
