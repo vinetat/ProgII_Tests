@@ -18,4 +18,7 @@ print("Parbauda, pierakstot jaunu rindu")
 print("Skatīsimies, ka darbojas versiju kontrole")
 print("Skolens Edgars")
 print("Skolens Edgars risina uzdevumu")
-print("Skolotāja atbilde: Skolens Edgars visu izdarīja pareizi. Loti labi")
+print("Skolens Edgars pievieno jaunu uzdevumu")
+a=5
+b=2
+print(a+b)
