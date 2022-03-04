@@ -14,6 +14,10 @@ print("Skolens1")
 print("Skolens1 pieraksta jaunas rindinas")
 print("Skkolens1 grib pārbaudīt, vai skolotajs sanems so programmas kodu")
 print("Skolens1 palaboja kodu")
+print("Skolens1 pievieno uzdevumu")
+a=9
+b=12
+print(a-b)
 print("Parbauda, pierakstot jaunu rindu")
 print("Skatīsimies, ka darbojas versiju kontrole")
 print("Skolens Edgars")
