@@ -26,7 +26,9 @@ print("Skolens Edgars pievieno jaunu uzdevumu")
 a=5
 b=2
 print(a+b)
+print("Skolens Jānis pievienojas grupai")
 print("Skolens Edgars pievieno jaunu uzdevumu")
 a=10
 b=2
 print(a*b)
+print("Skolens Jānis pievienojas grupai")
