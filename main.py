@@ -22,11 +22,11 @@ print("Parbauda, pierakstot jaunu rindu")
 print("Skatīsimies, ka darbojas versiju kontrole")
 print("Skolens Edgars")
 print("Skolens Edgars risina uzdevumu")
-print("Skolotāja atbilde: Skolens Edgars visu izdarīja pareizi. Loti labi")
-print("Skolens1 ir papildinājis koda rindas! Loti labi")
 print("Skolens Edgars pievieno jaunu uzdevumu")
 a=5
 b=2
 print(a+b)
-print("Skolens1 ir papildinājis koda rindas! Loti labi")
-print("Skolens Edgars izveido vēl vienu uzdevumu")
+print("Skolens Edgars pievieno jaunu uzdevumu")
+a=10
+b=2
+print(a*b)
