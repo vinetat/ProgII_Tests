@@ -7,3 +7,4 @@ print("Hobijs: kalnos kāpšana, kas nu jau 2 gadus nav iespējams, bet viss vē
 print("Te Kalvis kaut ko pierakstījis klāt")
 print("Sveiciens no Sandras :)")
 print("Sandra")
+print("Vēl viena Sanadras rindiņa")
